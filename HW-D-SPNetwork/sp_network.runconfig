@@ -1,0 +1,4 @@
+sp_network.sv key_schedule.sv p_box.sv s_box_1.sv s_box_2.sv sp_network_tb.sv
+sp_network_sol.sv key_schedule_sol.sv p_box_sol.sv s_box_1_sol.sv s_box_2_sol.sv sp_network_tb.sv
+sp_network.sv key_schedule_sol.sv p_box_sol.sv s_box_1_sol.sv s_box_2_sol.sv sp_network_tb_full.sv
+sp_network_sol.sv key_schedule_sol.sv p_box_sol.sv s_box_1_sol.sv s_box_2_sol.sv sp_network_tb_full.sv
