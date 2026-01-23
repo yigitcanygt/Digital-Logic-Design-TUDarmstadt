@@ -1,0 +1,5 @@
+handler.sv simple_fsm.sv advanced_fsm.sv handler_tb.sv
+handler_sol.sv simple_fsm_sol.sv advanced_fsm_sol.sv handler_tb.sv
+handler.sv simple_fsm_sol.sv advanced_fsm_sol.sv handler_tb_full.sv
+handler_sol.sv simple_fsm_sol.sv advanced_fsm_sol.sv handler_tb_full.sv
+
