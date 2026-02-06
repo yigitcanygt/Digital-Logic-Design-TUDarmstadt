@@ -1,0 +1,5 @@
+csa.sv csa_tb.sv
+csa_sol.sv csa_tb_sol.sv
+csa.sv csa_tb_full.sv
+csa_sol.sv csa_tb_full.sv
+

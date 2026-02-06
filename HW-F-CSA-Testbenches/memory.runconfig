@@ -1,0 +1,5 @@
+memory.sv memory_tb.sv
+dff_sol.sv memory_tb.sv
+dl_sol.sv memory_tb.sv
+dff_sol.sv memory_tb_sol.sv
+dl_sol.sv memory_tb_sol.sv

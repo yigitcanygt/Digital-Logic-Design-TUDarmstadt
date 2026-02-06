@@ -1,0 +1,5 @@
+multiplier.sv multiplier_tb.sv
+multiplier.sv multiplier_tb_sol.sv
+multiplier.sv multiplier_tb.sv
+multiplier_error.sv multiplier_tb_sol.sv
+multiplier_error.sv multiplier_tb.sv
