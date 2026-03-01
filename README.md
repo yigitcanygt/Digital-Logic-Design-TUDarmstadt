@@ -1,6 +1,6 @@
 # Digital Logic Design & SystemVerilog Portfolio 💻🔌
 
-[cite_start]A comprehensive collection of SystemVerilog projects and digital logic designs completed during the **Digitaltechnik** (Digital Logic Design) course at **TU Darmstadt** (WiSe 25/26)[cite: 864, 867].
+A comprehensive collection of SystemVerilog projects and digital logic designs completed during the **Digitaltechnik** (Digital Logic Design) course at **TU Darmstadt** (WiSe 25/26).
 
 This repository demonstrates my progression from basic logic gates to complex hardware architectures like cryptographic networks and recursive module generation.
 
